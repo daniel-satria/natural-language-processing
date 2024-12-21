@@ -8,3 +8,5 @@
 2. [N-Gram Language Model & Word to Vector (Word2Vec)](notebooks/2.n_gram_word2vec.ipynb)
 3. [Neural Probabilistic Model 1](notebooks/3.neural_nets.ipynb)
 4. [Neural Probabilistic Model 2](notebooks/4.neural_nets_2.ipynb)
+5. [Long-Short Term Memory](notebooks/5.lstm.ipynb)
+6. [Transformers](notebooks/6.transformers.ipynb)

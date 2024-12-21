@@ -1,3 +1,6 @@
 .venv
 
-/notebooks/model_check
+notebooks/model_check
+notebooks/_about.txt
+notebooks/ind-eng.zip
+notebooks/ind.txt
