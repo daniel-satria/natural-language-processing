@@ -10,3 +10,4 @@
 4. [Neural Probabilistic Model 2](notebooks/4.neural_nets_2.ipynb)
 5. [Long-Short Term Memory](notebooks/5.lstm.ipynb)
 6. [Transformers](notebooks/6.transformers.ipynb)
+7. [General Pre-Trained Transformers](notebooks/7.gpt.ipynb)
