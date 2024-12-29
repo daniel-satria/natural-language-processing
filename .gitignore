@@ -1,6 +1,9 @@
 .venv
 
+notebooks/content
 notebooks/model_check
 notebooks/_about.txt
 notebooks/ind-eng.zip
 notebooks/ind.txt
+notebooks/finetuned_distil_gpt_2
+notebooks/finetuned_distil_gpt2/checkpoint-250
